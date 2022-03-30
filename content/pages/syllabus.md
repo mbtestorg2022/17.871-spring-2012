@@ -39,9 +39,78 @@ During the second half of the semester we will meet twice each week to talk abou
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| {{< h 3 >}}Class Attendance, Quizzes, and Discussion of Assigned Readings.{{< /h >}} {{< br >}}{{< br >}} See the comments in the first paragraph of the section on **Subject Organization**. Come to all the regularly-scheduled class meetings. Attending the oral presentations that your colleagues give about their research is _not_ optional; your constructive participation in these sessions from the perspective of the audience will be a major aspect of this part of the grade. You also will provide brief written feedback on at least two other students' research projects. Finally, there will be a brief assignment about identifying and evaluating causal claims. {{< br >}}{{< br >}}  | 20% |
-| {{< h 3 >}}Data Analysis Exams and Problem Sets.{{< /h >}} {{< br >}}{{< br >}} There will one short (30-minute), in-class exam, that covers material from the lectures, text book, and problem sets. These are intended to make sure you have been serious about mastering the most basic technical and mechanical aspects of conducting quantitative research. {{< br >}}{{< br >}}  | 20% |
-| {{< h 3 >}}Group Project.{{< /h >}} {{< br >}}{{< br >}} There will be a group project assigned the first month of the semester, to give you a short introduction to doing quantitative social science research. The final product of each project will be graded; with you assigned a grade that is a linear combination of your own effort and the effort of the group. {{< br >}}{{< br >}}  | 20% |
-| {{< h 3 >}}Final Research Project.{{< /h >}} {{< br >}}{{< br >}} The final project is the culmination of this subject. You should start on the first day of the semester in thinking about what you want to research and getting together your data. Keep in mind that there is an old adage about estimating the amount of time it takes to gather and analyze data for an original project: Take your original estimate. Double it. Double it again. And again. You will still be wrong by a factor of two. In writing up your research project, you must organize the paper using a style book, preferably Kate L. Turabian's. The final write-up is due the last day of class. Do not assume that I will grant you an extension. You will also be graded on your two presentations. {{< br >}}{{< br >}}  | 40%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+### Class Attendance, Quizzes, and Discussion of Assigned Readings.
+
+See the comments in the first paragraph of the section on **Subject Organization**. Come to all the regularly-scheduled class meetings. Attending the oral presentations that your colleagues give about their research is _not_ optional; your constructive participation in these sessions from the perspective of the audience will be a major aspect of this part of the grade. You also will provide brief written feedback on at least two other students' research projects. Finally, there will be a brief assignment about identifying and evaluating causal claims.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+### Data Analysis Exams and Problem Sets.
+
+There will one short (30-minute), in-class exam, that covers material from the lectures, text book, and problem sets. These are intended to make sure you have been serious about mastering the most basic technical and mechanical aspects of conducting quantitative research.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+### Group Project.
+
+There will be a group project assigned the first month of the semester, to give you a short introduction to doing quantitative social science research. The final product of each project will be graded; with you assigned a grade that is a linear combination of your own effort and the effort of the group.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+### Final Research Project.
+
+The final project is the culmination of this subject. You should start on the first day of the semester in thinking about what you want to research and getting together your data. Keep in mind that there is an old adage about estimating the amount of time it takes to gather and analyze data for an original project: Take your original estimate. Double it. Double it again. And again. You will still be wrong by a factor of two. In writing up your research project, you must organize the paper using a style book, preferably Kate L. Turabian's. The final write-up is due the last day of class. Do not assume that I will grant you an extension. You will also be graded on your two presentations.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
